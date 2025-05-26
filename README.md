@@ -17,6 +17,8 @@ pagina-bienvenida
 ┗ 📄 README.md
 
 ## 📚 Lenguajes que conozco
--HTML 
--CSS
--JAVA
+<ul>
+  <li>HTML<li>
+  <li>CSS<li>
+  <li>JAVA<li>
+</ul>
