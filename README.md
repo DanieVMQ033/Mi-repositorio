@@ -18,7 +18,7 @@ pagina-bienvenida
 
 ## 📚 Lenguajes que conozco
 <ul>
-  <li>HTML<li>
-  <li>CSS<li>
-  <li>JAVA<li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JAVA</li>
 </ul>
