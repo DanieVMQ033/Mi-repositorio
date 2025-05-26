@@ -18,7 +18,7 @@ pagina-bienvenida
 <table style="width:75%">
 <tr>
 <td>
--HTML <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png">
+-HTML <img src="https://icon2.cleanpng.com/20180802/jrg/c461566a9739abbca65baab2c445c180.webp">
 </td>
 <td>
 -CSS <img src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp">
