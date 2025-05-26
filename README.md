@@ -11,7 +11,7 @@ Soy un estudiante de DAW, que esta aprendiendo a programar.
 ## 📁 Estructura del proyecto
 Abajo esta el diseño de mi primer projecto en GitHub.
 
-pagina-bienvenida
+Mi-directorio
 ┣ 📄 index.html
 ┣ 📄 style.css
 ┗ 📄 README.md
