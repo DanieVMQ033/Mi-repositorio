@@ -1,4 +1,4 @@
-# Hola 🚀
+# Hola 👋
 <tr>
 Soy un estudiante de DAW, que esta aprendiendo a programar.
 
