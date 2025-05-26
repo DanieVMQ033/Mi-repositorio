@@ -7,7 +7,7 @@ Soy un estudiante de DAW, que esta aprendiendo a programar.
 ## 👤 Autor
 <tr>
 **Daniel Vicente Molina Quiñonez**
-<br>
+</br>
 Abajo esta el diseño de mi primer projecto en GitHub.
   
 ## 📁 Estructura del proyecto
