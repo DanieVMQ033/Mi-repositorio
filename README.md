@@ -2,7 +2,7 @@
 <tr>
 Soy un estudiante de DAW, que esta aprendiendo a programar.
 
-![DanielVMQ GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvmq_icons=true&theme=dark)
+[![Daniel's GitHub stadísticas](https://github-readme-stats.vercel.app/api?username=DanielVMQ)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 👤 Autor
 <tr>
